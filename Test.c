@@ -7,7 +7,7 @@ int main() {
   int StudentNum = 202302762;
   int age = 21
   printf("Hello Wolrd!");
-  printf("My name is Kim Soo Min");
+  printf("My name is Kim Soo Min1");
   printf("My student number is %d", StudentNum);
   printf("My age is %d", age);
   printf("Hello Wolrd!");
