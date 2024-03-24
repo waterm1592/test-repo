@@ -11,4 +11,5 @@ int main() {
   printf("My student number is %d", StudentNum);
   printf("My age is %d", age);
   printf("Hello Wolrd!");
+  printf("Hello Wolrd!");
 }
